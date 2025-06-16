@@ -1,0 +1,16 @@
+Prerequisites
+
+    Python 3.10 or higher
+    Flask
+
+Installation
+
+To get a local copy up and running follow these simple steps.
+
+
+    Creating virtual environment
+
+    Install requirements :
+
+    pip install -r requirements.txt
+    python app.py
