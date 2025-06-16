@@ -8,8 +8,8 @@ from multiprocessing.pool import ThreadPool as Pool
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-CLIENT_ID="8203e0d0114149668bfe7b501df748ba"
-CLIENT_SECRET="f357c8369be84a5fbda1d2c76e5d33b6"
+CLIENT_ID=""
+CLIENT_SECRET=""
 
 spotify_client_id = CLIENT_ID
 spotify_client_secret = CLIENT_SECRET
