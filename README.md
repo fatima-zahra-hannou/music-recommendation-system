@@ -95,7 +95,7 @@ Place `tracks_with_genres_v4.csv` in the root directory of the project.
 ```
 
 ## **Demo**
-📥 [Download the demo video](videos/demo.mp4)
+📥 [Download the demo video](demo.mp4)
 📄 [Download the project report](report.pdf)
 
 
