@@ -34,9 +34,9 @@ The system relies on a multi-step **content-based filtering** process:
    - Combines Spotify song data with a Kaggle dataset.  
    - Applies preprocessing techniques for consistency:
 
-   - 🔹 *Normalization*: Features like tempo and popularity are scaled between 0 and 1.  
-   - 🔹 *TF-IDF for Genres*: Highlights genres that are distinctive across the dataset.  
-   - 🔹 *One-Hot Encoding for Year*: Treats release years as categorical variables.
+   - *Normalization*: Features like tempo and popularity are scaled between 0 and 1.  
+   - *TF-IDF for Genres*: Highlights genres that are distinctive across the dataset.  
+   - *One-Hot Encoding for Year*: Treats release years as categorical variables.
 
 3. **Similarity Calculation**  
    - Cosine similarity is used between the feature vector of the input song and all songs in the dataset.  
