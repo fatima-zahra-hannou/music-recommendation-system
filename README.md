@@ -74,11 +74,12 @@ Follow these steps to run the project locally:
     pip install -r requirements.txt
   
 4. Configure Spotify API Credentials
-Go to the Spotify Developer Dashboard
 
-Create a new app and retrieve your Client ID and Client Secret
+Go to **the Spotify Developer Dashboard**
 
-Open main.py and update:
+Create a new app and retrieve your **Client ID and Client Secret**
+
+Open ```main.py``` and update:
 
 ```python
 CLIENT_ID = "YOUR_CLIENT_ID"
